@@ -1,4 +1,4 @@
-# SLR
+# Systematic Literature Review
 ![Image](https://user-images.githubusercontent.com/7825349/221398023-132491bb-3869-4792-b8b5-11ae44d1b915.jpg)
 
 #
